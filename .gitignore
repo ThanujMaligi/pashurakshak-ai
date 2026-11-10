@@ -31,3 +31,7 @@ backend/data/uploads/*
 .DS_Store
 Thumbs.db
 *.log
+
+backend/data/*.db
+backend/data/models/*
+
